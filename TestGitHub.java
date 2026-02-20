@@ -3,3 +3,4 @@ public class TestGitHub {
         System.out.println("Test gitHub");
     }   
 }
+/* Изменениz для тестирования слияния 1.2.4
